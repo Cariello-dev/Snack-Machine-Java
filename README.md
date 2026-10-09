@@ -16,9 +16,8 @@ The program runs in the console and allows users to manage snacks, add products 
 
 ```text
 src/
-├── Snack.java
-├── Snacks.java
-└── MaquinaSnacks.java
+├── Snack.java 
+
 ```
 
 - `Snack` — Represents a snack and its properties.
